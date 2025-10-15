@@ -1,0 +1,5 @@
+"scripts": {
+  "test": "karma start karma.conf.js --single-run",
+  "lint": "eslint .",
+  // ... otros scripts
+}
